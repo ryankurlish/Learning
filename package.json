@@ -1,0 +1,19 @@
+{
+  "name": "learning",
+  "version": "0.1.0",
+  "description": "Learning these tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryankurlish/Learning.git"
+  },
+  "author": "Ryan Kurlish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryankurlish/Learning/issues"
+  },
+  "homepage": "https://github.com/ryankurlish/Learning#readme"
+}
